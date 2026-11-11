@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+# generated data (big: EXRs are ~40 MB per position)
+data/
+*.exr
+*.npy
+
+# cloned separately, see README
+Unreal-Moon-Terrain-Generation/
+MARE-Lunar-Simulator/

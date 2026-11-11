@@ -1,0 +1,8 @@
+# python 3.11
+numpy==2.4.4
+scipy==1.17.1
+pillow==12.2.0
+OpenEXR==3.5.3
+# needed by Terrain Studio's generator (make_terrain.py / render_map.py import it)
+pandas==3.0.2
+PyYAML==6.0.3
